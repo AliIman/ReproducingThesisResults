@@ -1,0 +1,10 @@
+Workspace Data:
+   Location: /Users/user/Desktop/JTestParametrizer-Benchmarks/
+
+Program to Run:
+   Run an application: ca.uwaterloo.jrefactoring.application
+
+Java Runtime Enviroment:
+   Java executable: Default (javaw)
+   Execution enviroment: JavaSE-14 (JRE[14.0.2])
+

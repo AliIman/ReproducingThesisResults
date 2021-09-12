@@ -1,0 +1,5 @@
+-Xms128m -Xmx8192m
+
+Use the -XstartOnFirstThread argument when launching with SWT
+Use the -XX:+ShowCodeDetailsInExceptionMessages argument when launching
+
