@@ -1,0 +1,9 @@
+-os ${target.os} -ws ${target.ws} -arch ${target.arch} -nl ${target.nl} -consoleLog
+-p jfreechart
+-x jfreechart_post_cluster_vdb_50_0_allg_0.95_50.xls
+-m ANALYZE_EXISTING
+-l
+-pkg org.jfree
+-ac
+-s 250
+-skipBehaviourals
