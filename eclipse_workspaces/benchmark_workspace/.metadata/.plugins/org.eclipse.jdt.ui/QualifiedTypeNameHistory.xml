@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.eclipse.core.runtime.IPath"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="java.io.PrintWriter"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="ca.uwaterloo.jrefactoring.visitor.CheckProtectedCallsVisitor"/>
+    <fullyQualifiedTypeName name="io.netty.buffer.PoolArena"/>
+    <fullyQualifiedTypeName name="io.netty.buffer.PooledByteBuf"/>
+    <fullyQualifiedTypeName name="io.netty.buffer.ByteBuf"/>
+</qualifiedTypeNameHistroy>

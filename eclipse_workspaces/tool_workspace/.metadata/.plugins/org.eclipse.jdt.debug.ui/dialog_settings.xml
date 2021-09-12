@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.jdt.debug.ui.MAIN_METHOD_SELECTION_DIALOG">
+		<item key="ShowStatusLine" value="true"/>
+		<item key="History" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0A;&lt;History&gt;&#x0A;&lt;historyRootNode&gt;&#x0A;&lt;infoNode&gt;=JRefactoring-Template/lib\/jxl.jar&amp;lt;jxl.demo(Demo.class[Demo&lt;/infoNode&gt;&#x0A;&lt;/historyRootNode&gt;&#x0A;&lt;/History&gt;"/>
+		<section name="DialogBoundsSettings">
+			<item key="DIALOG_HEIGHT" value="500"/>
+			<item key="DIALOG_WIDTH" value="600"/>
+			<item key="DIALOG_X_ORIGIN" value="340"/>
+			<item key="DIALOG_Y_ORIGIN" value="67"/>
+			<item key="DIALOG_FONT_NAME" value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont"/>
+		</section>
+	</section>
+	<section name="expressionHistory">
+		<item key="expressionHistoryEntry_0" value="@Test public void testToString(){&#x0A;  assertEquals(&quot;0.0&quot;,adapter.toString(clazzTMutableNumber.getDeclaredConstructor(clazzT1).newInstance(0d)));&#x0A;  assertEquals(&quot;10.0&quot;,adapter.toString(clazzTMutableNumber.getDeclaredConstructor(clazzT1).newInstance(10d)));&#x0A;  assertEquals(&quot;-123.0&quot;,adapter.toString(clazzTMutableNumber.getDeclaredConstructor(clazzT1).newInstance(-123d)));&#x0A;}&#x0A;"/>
+		<item key="expressionHistoryEntryCount" value="2"/>
+		<item key="expressionHistoryEntry_1" value="MutableDoubleTest.java [in org.apache.commons.lang3.mutable [in src/test/java [in commons-lang]]]&#x0A;  package org.apache.commons.lang3.mutable&#x0A;  import org.junit.Test&#x0A;  import org.junit.Assert.assertEquals&#x0A;  import org.junit.Assert.assertFalse&#x0A;  import org.junit.Assert.assertTrue&#x0A;  class MutableDoubleTest&#x0A;    void testConstructors()&#x0A;    void testConstructorNull()&#x0A;    void testGetSet()&#x0A;    void testSetNull()&#x0A;    void testNanInfinite()&#x0A;    void testEquals()&#x0A;    void testHashCode()&#x0A;    void testCompareTo()&#x0A;    void testCompareToNull()&#x0A;    void testPrimitiveValues()&#x0A;    void testToDouble()&#x0A;    void testIncrement()&#x0A;    void testIncrementAndGet()&#x0A;    void testGetAndIncrement()&#x0A;    void testDecrement()&#x0A;    void testDecrementAndGet()&#x0A;    void testGetAndDecrement()&#x0A;    void testAddValuePrimitive()&#x0A;    void testAddValueObject()&#x0A;    void testGetAndAddValuePrimitive()&#x0A;    void testGetAndAddValueObject()&#x0A;    void testAddAndGetValuePrimitive()&#x0A;    void testAddAndGetValueObject()&#x0A;    void testSubtractValuePrimitive()&#x0A;    void testSubtractValueObject()&#x0A;    void testToString()&#x0A;    class MutableDoubleTestTestConstructorsAdapterImpl&#x0A;      double value(MutableDouble)&#x0A;    class MutableDoubleTestTestNanInfiniteAdapterImpl&#x0A;      boolean isNaN(MutableDouble)&#x0A;      boolean isInfinite(MutableDouble)"/>
+	</section>
+	<section name="org.eclipse.jdt.internal.debug.ui.ExpressionInformationControlCreator$ExpressionInformationControl">
+		<item key="WIDTH" value="674"/>
+		<item key="HEIGHT" value="156"/>
+		<item key="SashWeightTree" value="500"/>
+		<item key="SashWeightDetails" value="500"/>
+	</section>
+	<section name="conditionHistory">
+		<item key="conditionHistoryEntry_0" value="if(name == &quot;TestPropertiesTestPropertyEqualsTemplate.java&quot;)"/>
+		<item key="conditionHistoryEntryCount" value="3"/>
+		<item key="conditionHistoryEntry_1" value="if(name == &quot;&quot;)"/>
+		<item key="conditionHistoryEntry_2" value="if()"/>
+	</section>
+</section>

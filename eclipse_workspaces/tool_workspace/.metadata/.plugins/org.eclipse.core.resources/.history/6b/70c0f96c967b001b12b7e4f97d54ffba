@@ -1,0 +1,18 @@
+package io.bootique.jackson;
+import java.time.ZoneOffset;
+import java.lang.Object;
+import io.bootique.jackson.DeserializerTestBase.Bean1;
+import java.lang.String;
+import static org.junit.jupiter.api.Assertions.assertEquals;
+import static java.time.OffsetDateTime.of;
+import static java.time.ZoneOffset.ofHours;
+public class DateTimeDeserializerITTestDeserialization03Template {
+  public static void dateTimeDeserializerITTestDeserialization03Template(  DateTimeDeserializerITTestDeserialization03Adapter adapter,  String string1,  Object object1) throws Exception {
+    Bean1 bean1=deserialize(Bean1.class,"a: \"x\"\n" + "c:\n" + string1);
+    assertEquals(adapter.of(2017,9,2,10,15,30,0,ZoneOffset.ofHours(1)),object1);
+  }
+}
+
+interface DateTimeDeserializerITTestDeserialization03Adapter {
+	Object of(int i1, int i2, int i3, int i4, int i5, int i6, int i7, ZoneOffset zoneOffset1);
+}

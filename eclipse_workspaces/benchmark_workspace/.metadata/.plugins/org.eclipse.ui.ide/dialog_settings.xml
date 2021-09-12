@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ResourceNavigator">
+		<item key="ResourceViewer.STORE_SORT_TYPE" value="1"/>
+		<item key="ResourceWorkingSetFilter.STORE_WORKING_SET" value="Aggregate for window 1601156571156"/>
+	</section>
+	<section name="NewWizardAction">
+	</section>
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="/Users/user/Desktop/JTestParametrizer-Benchmarks/maven/maven-core"/>
+			<item value="/Users/user/Desktop/JTestParametrizer-Benchmarks/rocketmq/tools"/>
+			<item value="/Users/user/Desktop/JTestParametrizer-Benchmarks/jimfs"/>
+			<item value="/Users/user/Desktop/JTestParametrizer-Benchmarks/truth/core"/>
+			<item value="/Users/user/Desktop/JTestParametrizer-Benchmarks/truth"/>
+			<item value="/Users/user/Desktop/JTestParametrizer-Benchmarks/error-prone"/>
+			<item value="/Users/user/Desktop/JTestParametrizer-Benchmarks/error-prone/core"/>
+			<item value="/Users/user/Desktop/JTestParametrizer-Benchmarks/systemds"/>
+			<item value="/Users/user/Desktop/JTestParametrizer-Benchmarks/netty/transport-native-epoll"/>
+			<item value="/Users/user/Desktop/JTestParametrizer-Benchmarks/netty/codec-http"/>
+			<item value="/Users/user/Desktop/JTestParametrizer-Benchmarks/netty/buffer"/>
+			<item value="/Users/user/Desktop/JTestParametrizer-Benchmarks/commons-collections"/>
+			<item value="/Users/user/Desktop/JTestParametrizer-Benchmarks/fastjson"/>
+			<item value="/Users/user/Desktop/JTestParametrizer-Benchmarks/checkstyle"/>
+			<item value="/Users/user/Desktop/JTestParametrizer-Benchmarks/typescript-generator"/>
+			<item value="/Users/user/Desktop/JTestParametrizer-Benchmarks/git-commit-id-maven-plugin"/>
+			<item value="/Users/user/Desktop/JTestParametrizer-Benchmarks/maven"/>
+			<item value="/Users/user/Desktop/JTestParametrizer-Benchmarks/jsonschema2pojo"/>
+			<item value="/Users/user/Desktop/object-construction-checker"/>
+			<item value="/Users/user/Desktop/JTestParametrizer-Benchmarks/docker-maven-plugin"/>
+			<item value="/Users/user/Desktop/JTestParametrizer-Benchmarks/guice"/>
+			<item value="/Users/user/Desktop/JTestParametrizer-Benchmarks/mybatis-3"/>
+			<item value="/Users/user/Desktop/JTestParametrizer-Benchmarks/bootique"/>
+			<item value="/Users/user/Desktop/JTestParametrizer-Benchmarks/commons-io"/>
+			<item value="/Users/user/Desktop/JTestParametrizer-Benchmarks/commons-lang"/>
+			<item value="/Users/user/Desktop/JTestParametrizer-Benchmarks/jfreechart"/>
+			<item value="/Users/user/Desktop/JTestParametrizer-Benchmarks/joda-time"/>
+			<item value="/Users/user/Desktop/JTestParametrizer-Benchmarks/gson"/>
+			<item value="/Users/user/Desktop/JDeodorant"/>
+			<item value="/Users/user/Desktop/JTestParametrizer"/>
+			<item value="/Users/user/Desktop/gson"/>
+		</list>
+	</section>
+	<section name="CleanDialogSettings">
+		<item key="TOGGLE_SELECTED" value="false"/>
+		<item key="DIALOG_WIDTH" value="546"/>
+		<item key="DIALOG_HEIGHT" value="363"/>
+		<item key="DIALOG_FONT_NAME" value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont"/>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="338"/>
+		<item key="DIALOG_Y_ORIGIN" value="233"/>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+</section>
